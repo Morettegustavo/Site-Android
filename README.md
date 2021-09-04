@@ -16,7 +16,7 @@ f# Site-Android
 ***
 * Semântica na HTML5.
 * Imagens Dinâmicas.
-* Vídeos externos.
+* Vídeos Externos.
 * Citações.
 * Listas OL e UL.
 
