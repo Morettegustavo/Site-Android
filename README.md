@@ -10,7 +10,7 @@
 ![android04-900](https://user-images.githubusercontent.com/88351614/132096751-654afde7-31bc-4b5a-b49b-018e80bd35f1.jpg)
 
 ***
-# Conhecimento usado
+# Conhecimento usado no projeto
 ***
 ## HTML5
 ***
