@@ -1,4 +1,4 @@
-# Site-Android
+f# Site-Android
 ***
 ## `Site desenvolvido com HTML5 e CSS3 🚀`
 
@@ -15,13 +15,13 @@
 ## HTML5
 ***
 * Semântica na HTML5.
+* Imagens Dinâmicas.
 * Vídeos externos.
 * Citações.
 * Listas OL e UL.
 
 ## CSS3
 ***
-* Imagens Dinâmicas.
 * Representação Cores com CSS.
 * Psicologia das Cores.
 * Tipografia.
