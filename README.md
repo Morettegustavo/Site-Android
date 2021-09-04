@@ -1,6 +1,6 @@
 # Site-Android
 ***
-`Site desenvolvido com HTML5 e CSS3 🚀`
+## `Site desenvolvido com HTML5 e CSS3 🚀`
 
 * Link para o [Git Pages](https://morettegustavo.github.io/Site-Android/)
 ***
